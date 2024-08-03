@@ -17,12 +17,6 @@
   <img align="center" alt="GoogleSheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
 </div>
 
-### Programming
-<div style="display: inline_block">
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</div>
-
 ### Statistics and Data Analysis
 <div style="display: inline_block">
 <img align="center" alt="SPSS" src="https://tudocomexcel.com.br/wp-content/uploads/2024/06/spss_logo-2.png" height="28"/>
@@ -37,4 +31,16 @@
 <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
+
+### Programming
+<div style="display: inline_block">
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<p>
+</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarcilaLandin&layout=compact)
+
+
 
